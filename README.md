@@ -12,7 +12,7 @@ and direct the choose.file() funciton to wherever folder you extracted the .txt 
 
 Author e-mail for questions: fdessoycaraballo@gmail.com
 
-############################################################################################################################
+##################################################################
 
 PT
 Estes arquivos são parte dos dados e materiais auxiliares para o artigo "Imigração e Terrorismo: medo infundado em rede";
